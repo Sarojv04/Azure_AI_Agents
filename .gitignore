@@ -1,0 +1,16 @@
+# Environment variables (sensitive!)
+.env
+
+# Python virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# VS Code settings
+.vscode/
+
+# Python cache
+*.pyo
+*.pyd
+.Python
+*.egg-info/
